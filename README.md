@@ -1,4 +1,4 @@
-# OCR-em-imagens
+# Trabalho de Processamento de Imagens 
 Como rodar o projeto:
 
 Instale as bibliotecas necessárias:

@@ -3,6 +3,7 @@ Como rodar o projeto:
 
 Instale as bibliotecas necessárias:
     pip install opencv-python
+    e
     pip install pytesseract
 
 No linux, instale o tesseract-ocr:
